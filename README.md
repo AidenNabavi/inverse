@@ -1,3 +1,6 @@
+![Result](https://raw.githubusercontent.com/AidenNabavi/inverse/main/result.png)
+
+
 ## Audit Report
 Project:`Inverse Finance`  
 Researcher:`Aiden`
